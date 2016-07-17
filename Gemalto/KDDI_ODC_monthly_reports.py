@@ -13,7 +13,7 @@ def validate_month_year(month, year):
         m = int(month)
         if m in range(1,13) and \
             int(year) >= 2015 and \
-            intern(year) <= 2050:
+            int(year) <= 2050:
             print "OK"
         else:
             print "[ERROR] :\nIncorrect input; \nUsage : month = MM and year = YYYY"
