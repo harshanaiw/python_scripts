@@ -1,4 +1,4 @@
-from scipy.constants.constants import year
+##!/usr/bin/python
 def UserInput():
     print "*********************************************************************************"
     print "* \t This script will generate MNO Monthly report for KDDI ODC LAB(ENI182) \t*"
