@@ -1,0 +1,7 @@
+MNO_NAME	,USE_CASE	,SUCCESS_COUNT	,FAILED_COUNT
+KDD	,Profile_Enable	,0	,0
+AIS	,Profile_Enable	,0	,0
+AIS	,Profile_Download	,0	,0
+KDJ	,Profile_Enable	,10	,4
+JCC	,Profile_Enable	,0	,0
+JCC	,Profile_Download	,0	,0
